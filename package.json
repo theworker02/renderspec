@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/renderspec",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Render encode/decode helpers for spec payloads in pipelines.",
+  "bin": {
+    "renderspec": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/renderspec.git"
+  },
+  "homepage": "https://theworker02.github.io/renderspec/",
+  "keywords": [
+    "render",
+    "spec",
+    "encode",
+    "cli",
+    "toolkit"
+  ]
+}
